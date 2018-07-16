@@ -5,8 +5,8 @@
 | &#10004; | [0](./0/) | [НМ](./0/) | [гНоМ](./0/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/0/0.png?raw=true" width="125" height="150" alt="0 - гНоМ"> |
 | &#10004; | [1](./1/) | [ГЖ](./1/) | [ГараЖ](./1/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/1/1.png?raw=true" width="125" height="150" alt="1 - ГараЖ"> |
 | &#10004; | [2](./2/) | [ДТ](./2/) | [Дизель](./2/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/2/2.png?raw=true" width="125" height="150" alt="2 - Дизель"> |
-| &#10004; | [3](./3/) | [КХ](./3/) | [Кхалиси](./3/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/3/3.png?raw=true" width="125" height="150" alt="3 - Кхалиси"> |
-| | 4 | ЧЩ | | |
+| <2k | [3](./3/) | [КХ](./3/) | [Кхалиси](./3/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/3/3.png?raw=true" width="125" height="150" alt="3 - КХалиси"> |
+| <2k | [4](./4/) | [ЧЩ](./4/) | [ЧаЩа](./4/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/4/4.png?raw=true" width="125" height="150" alt="4 - ЧаЩа"> |
 | | 5 | ПБ | | |
 | | 6 | ШЛ | | |
 | | 7 | СЗ | | |
