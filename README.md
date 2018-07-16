@@ -23,5 +23,8 @@ _[russian language]_
 5. Сайт с&nbsp;карточками
 6. Print version (single&nbsp;/ multi)
 
+### Content
+[Мнемоническая таблица соответствий](https://temich.in.ua/apps/memory/) _(0&mdash;10, 00&mdash;100, 000&mdash;1000, months)_
+
 ### License
 [MIT License](/LICENSE)
