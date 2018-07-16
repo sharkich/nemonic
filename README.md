@@ -1,6 +1,6 @@
 # Nemonic
 
-**Nemonic**&nbsp;&mdash; system for remembering information by&nbsp;Mnemonics tables. I&rsquo;ve created in&nbsp;Russian, if&nbsp;you have any information in&nbsp;any other language, please contacts me&nbsp;or&nbsp;contribute in&nbsp;this repository. Thanks a&nbsp;lot to&nbsp;all participants! _([CONTRIBUTION.md](/CONTRIBUTION.md))_
+**Nemonic**&nbsp;&mdash; system for remembering information by&nbsp;Mnemonics tables. I&rsquo;ve created in&nbsp;Russian, if&nbsp;you have any information in&nbsp;any other language, if you have any ideas, if&nbsp;you want help&nbsp;us, please contacts me&nbsp;or&nbsp;contribute in&nbsp;this repository. Thanks a&nbsp;lot to&nbsp;all participants! _([CONTRIBUTION.md](/CONTRIBUTION.md))_
 
 <hr>
 
@@ -15,16 +15,21 @@ _[russian language]_
 ### Цели:
 Помочь людям запоминать информацию путем работы и&nbsp;игр с&nbsp;мнемоническими карточками (для взрослых и&nbsp;для детей)
 
-### Задачи:
-1. Создать карточки для запоминания чисел 0&nbsp;&mdash; 9
-2. Создать карточки для запоминания чисел 0&nbsp;&mdash; 100
-3. Создать карточки для запоминания чисел 0&nbsp;&mdash; 1000
-4. Генератор карточек
-5. Сайт с&nbsp;карточками
-6. Print version (single&nbsp;/ multi)
+### Global tasts:
+1. Create cards of number 0&nbsp;&mdash; 9 _(Release v1.0)_
+2. Create cards of number 0&nbsp;&mdash; 100 _(Release v2.0)_
+3. Create cards of months _(Release v2.0)_
+3. Create cards of number 0&nbsp;&mdash; 1000 _(Release v3.0)_
+4. Card Generator v1.0 or Card Viewer _(Release v1.0)_
+5. Create Github pages with cards
+6. Print version on cart viewer (single&nbsp;/ multi)
 
 ### Content
 [Мнемоническая таблица соответствий](https://temich.in.ua/apps/memory/) _(0&mdash;10, 00&mdash;100, 000&mdash;1000, months)_
 
 ### License
 [MIT License](/LICENSE)
+
+#### Images.
+
+If&nbsp;you have copyright to&nbsp;some of&nbsp;the photos in&nbsp;this open project and you don&rsquo;t want to&nbsp;share it&nbsp;with&nbsp;us&nbsp;&mdash; please, [create an&nbsp;issue](https://github.com/sharkich/nemonic/issues/new), and we&nbsp;delete&nbsp;it.
