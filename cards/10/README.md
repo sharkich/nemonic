@@ -1,4 +1,4 @@
-# Mnemonic table for numbers 0&mdash;10
+# Mnemonic table for numbers 0&mdash;9
 
 | Status | Number | Value | Association |
 | :---: | :---: | :---: | :---: |
