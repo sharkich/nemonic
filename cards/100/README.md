@@ -1,4 +1,4 @@
-# Mnemonic table for numbers 00&mdash;100
+# Mnemonic table for numbers 00&mdash;99
 
 | Status | Number | Value |
 | :---: | :---: | :---: |
