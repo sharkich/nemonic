@@ -9,6 +9,6 @@
 | <2k | [4](./4/) | [ЧЩ](./4/) | [ЧаЩа](./4/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/4/4.png?raw=true" width="125" height="150" alt="4 - ЧаЩа"> |
 | image | [5](./5/) | [ПБ](./5/) | [ПаБ](./5/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/5/5.png?raw=true" width="125" height="150" alt="5 - ПаБ"> |
 | &#10004; | [6](./6/) | [ШЛ](./6/) | [ШиЛо](./6/) | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/6/6.png?raw=true" width="125" height="150" alt="6 - ШиЛо"> |
-| | 7 | СЗ | | |
+| idea | 7 | СЗ | СоюЗ | <img src="https://github.com/sharkich/nemonic/blob/master/cards/10/7/7.png?raw=true" width="125" height="150" alt="7 - СоюЗ"> |
 | | 8 | ВФ | | |
 | | 9 | РЦ | | |
