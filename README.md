@@ -32,7 +32,7 @@ _[russian language]_
 
 [Как запоминать числа](https://zapomnivse.com/stati/zapominenie-informacii/kak-zapominat-chisla.html)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lhrLF-51lD0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Как запоминать числа](https://img.youtube.com/vi/lhrLF-51lD0/0.jpg)](https://www.youtube.com/watch?v=lhrLF-51lD0)
 
 ### License
 [MIT License](/LICENSE)
