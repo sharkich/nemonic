@@ -20,19 +20,23 @@ _[russian language]_
 
 ### Global tasts:
 1. Create cards of number 0&nbsp;&mdash; 9 _(Release v1.0)_
-2. Create cards of number 0&nbsp;&mdash; 100 _(Release v2.0)_
+2. Create cards of number 0&nbsp;&mdash; 100 _(Release v1.0)_
 3. Create cards of months _(Release v2.0)_
-3. Create cards of number 0&nbsp;&mdash; 1000 _(Release v3.0)_
+3. Create cards of number 0&nbsp;&mdash; 1000 _(Release v2.0)_
 4. Card Generator v1.0 or Card Viewer _(Release v1.0)_
-5. Create Github pages with cards
-6. Print version on cart viewer (single&nbsp;/ multi)
+5. Create Github pages with cards _(Release v2.0)_
+6. Print version on cart viewer (single&nbsp;/ multi) _(Release v1.0)_
 
 ### Content
 [Мнемоническая таблица соответствий](https://temich.in.ua/apps/memory/) _(0&mdash;10, 00&mdash;100, 000&mdash;1000, months)_
 
+[Как запоминать числа](https://zapomnivse.com/stati/zapominenie-informacii/kak-zapominat-chisla.html)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lhrLF-51lD0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ### License
 [MIT License](/LICENSE)
 
-#### Images.
+#### Images
 
 If&nbsp;you have copyright to&nbsp;some of&nbsp;the photos in&nbsp;this open project and you don&rsquo;t want to&nbsp;share it&nbsp;with&nbsp;us&nbsp;&mdash; please, [create an&nbsp;issue](https://github.com/sharkich/nemonic/issues/new), and we&nbsp;delete&nbsp;it.
