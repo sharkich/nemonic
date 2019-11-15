@@ -1,0 +1,79 @@
+{
+  "id": "months",
+  "title": "Months",
+  "image": "https://www.esade.edu/sites/default/files/styles/key_factor_v3/public/pr_assets/key_factors_items/image/18447/395135/calendar-12-months_18447_395135.png",
+  "cards": [
+    {
+      "id": "1",
+      "title": "Январь",
+      "association": "Елка",
+      "image": "image_0"
+    },
+    {
+      "id": "2",
+      "title": "Февраль",
+      "association": "Медаль",
+      "image": "image_1"
+    },
+    {
+      "id": "3",
+      "title": "Март",
+      "association": "Мимоза",
+      "image": "image_1"
+    },
+    {
+      "id": "4",
+      "title": "Апрель",
+      "association": "Капля",
+      "image": "image_1"
+    },
+    {
+      "id": "5",
+      "title": "Май",
+      "association": "Голубь",
+      "image": "image_1"
+    },
+    {
+      "id": "6",
+      "title": "Июнь",
+      "association": "Лист",
+      "image": "image_1"
+    },
+    {
+      "id": "7",
+      "title": "Июль",
+      "association": "Клубника",
+      "image": "image_1"
+    },
+    {
+      "id": "8",
+      "title": "Август",
+      "association": "Яблоко",
+      "image": "image_1"
+    },
+    {
+      "id": "9",
+      "title": "Сентябрь",
+      "association": "Транспортир",
+      "image": "image_1"
+    },
+    {
+      "id": "10",
+      "title": "Октябрь",
+      "association": "Лед",
+      "image": "image_1"
+    },
+    {
+      "id": "11",
+      "title": "Ноябрь",
+      "association": "Снег",
+      "image": "image_1"
+    },
+    {
+      "id": "12",
+      "title": "Декабрь",
+      "association": "Шампанское",
+      "image": "image_1"
+    }
+  ]
+}
